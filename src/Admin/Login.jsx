@@ -27,7 +27,6 @@ if(response.status==404){
 }
 else if(response.status==200){
   console.log(await response.json())
-  alert("login successfull")
     navigate("/Admin/Dashboard");
   }
 }
