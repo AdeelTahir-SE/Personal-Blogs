@@ -18,4 +18,4 @@ In the digital world, managing and sharing content has become easier and more ef
 
 ## Project URL
 
-For more details and to access the source code, visit the project repository: [Personal Blog Application](https://github.com/AdeelTahir-SE/Personal-Blogs)
+For more details this project is inspired from roadmap.sh: [Personal Blog Application on roadmap.sh](https://roadmap.sh/projects/personal-blog)
